@@ -1,9 +1,9 @@
 name: "cd-tp"
 displayName: "Craftdustry: Texturepack"
 subtitle: "Release: 1.0.1"
-description: "An under-development texture pack that makes Mindustry look like Minecraft\n\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
+description: "An under-development texture pack that makes Mindustry look like Minecraft\n\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: off"
 author: "Yoru Kitsune\nOriginal textures: Mojang/Microsoft"
 version: "1.0.1"
 minGameVersion: "145"
-repo: "Yoru-Kitsune/Craftdustry"
+repo: "Yoru-Kitsune/Craftdustry-Texturepack"
 hidden: true
